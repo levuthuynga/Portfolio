@@ -4,7 +4,9 @@
 
 Hi! I'm Le Vu Thuy Nga and welcome to my Portfolio. I graduated from Hanoi Foreign Trade University where I majored in International Business Economics.  
 
-Data Analysis came to me through Google Data Analytic Course, which gave me inspiration to dive deeper into this field. The more I learn, the more I realize there are many things I don't know, which excites me to continue my journey to become a data analyst. 
+Data Analysis came to me through Google Data Analytic Course, which gave me inspiration to dive deeper into this field. The more I learn, the more I realize there are many things I don't know, which excites me to continue my journey to become a data analyst. It amazes me how much we can 
+
+I understand that my knowlegde is in theory more than in reality, these projects reflect my innocent view about business and data analysis. I hope to encounter more reality cases to increase my knowledge
 <br />
 
 ## Projects
