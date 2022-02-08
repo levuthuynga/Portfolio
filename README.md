@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - Le Vu Thuy Nga
 
 ## About me
 
