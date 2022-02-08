@@ -1,15 +1,9 @@
 # Portfolio
 
-### Mục lục
-Tại đây lưu trữ các sản phẩm của tôi liên quan đến phân tích dữ liệu, gồm 3 phần chính. Mỗi project sẽ có các tài liệu đi kèm
-1. SQL Projects
-2. [Tableau Projects](https://github.com/levuthuynga/Tableau-Projects)
+Hi! I'm Le Vu Thuy Nga and welcome to my Portfolio. I graduated from Hanoi Foreign Trade University where I majored in International Business Economics. Data Analysis came to me through Google Data Analytic Course, which gave me inspiration to dive deeper into this field. The more I learn, the more I realize there are many things I don't know, which excites me to continue my journey to become a data analyst. 
 
-### Câu chuyện của tôi
-Xin chào! 
+This site holds all of my personal projects that are divided into 3 differents repositories:
+1. [Excel Projects](https://github.com/levuthuynga/Excel-Projects)
+2. [SQL Projects])https://github.com/levuthuynga/SQL-Projects)
+3. [Tableau Projects](https://github.com/levuthuynga/Tableau-Projects)
 
-Tôi là Lê Vũ Thúy Nga. 
-
-Tôi biết đến Phân tích dữ liệu khi tình cờ nhìn thấy khóa học Data Analytics của Google trên Coursera, tôi ấn tượng bởi khả năng các dữ liệu, nhìn qua thật hỗn loạn và nhỏ bé, khi được tập hợp lại có thể góp phần tạo nên những quyết định không tưởng như thế nào.
-
-Sau đó, tôi tiếp tục các khóa học về quy trình và tư duy của một Chuyên viên phân tích dữ liệu cũng như các kỹ năng sử dụng SQL, Tableau, Excel,... Hiện tại, mục tiêu của tôi là tiếp tục phát triển kiến thức và kỹ năng của mình để hướng tới trở thành Data scientist trong tương lai, bởi tôi muốn khám phá được càng nhiều ứng dụng và kiến thức hơn nữa từ dữ liệu.
