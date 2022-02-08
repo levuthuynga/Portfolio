@@ -8,6 +8,6 @@ Hi! I'm Le Vu Thuy Nga and welcome to my Portfolio. I graduated from Hanoi Forei
 ### Index
 This site holds all of my personal projects that are divided into 3 differents repositories:
 1. [Excel Projects](https://github.com/levuthuynga/Excel-Projects)
-2. [SQL Projects])https://github.com/levuthuynga/SQL-Projects)
+2. [SQL Projects](https://github.com/levuthuynga/SQL-Projects)
 3. [Tableau Projects](https://github.com/levuthuynga/Tableau-Projects)
 
