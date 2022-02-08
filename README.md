@@ -15,10 +15,10 @@ This site holds all of my personal projects that are divided into 3 differents r
 3. [Tableau Projects](https://github.com/levuthuynga/Tableau-Projects)
 
 My projects usually go through 5 steps:
-1. Ask: define goals of the projects
-2. Prepare: find needed and reliable data 
-3. Process: clean data
-4. Analyze: find useful insights from data
-5. Share: visualize and present
+- Ask: define goals of the projects
+- Prepare: find needed and reliable data 
+- Process: clean data
+- Analyze: find useful insights from data
+- Share: visualize and present
 
 The first 4 steps are performed through Excel and SQL Projects, Share step is performed in Tableau Projects
