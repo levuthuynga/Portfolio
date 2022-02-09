@@ -4,7 +4,7 @@
 
 Hi! I'm Le Vu Thuy Nga and welcome to my Portfolio! 
 
-I graduated from Hanoi Foreign Trade University, International Business Economics majoe, where data science just appeared a bit in econometrics subject.  Data Analysis came to me through Google Data Analytic Course, that gave me inspiration to dive deeper into this field. The more I learn, the more I realize there are many amazing things that we can do with a set of data, which excites me to continue my journey to become a data analyst. 
+I graduated from Hanoi Foreign Trade University, International Business Economics major, where data science just appeared a bit in econometrics subject.  Data Analysis came to me through Google Data Analytic Course, that gave me inspiration to dive deeper into this field. The more I learn, the more I realize there are many amazing things that we can do with a set of data, which excites me to continue my journey to become a data analyst. 
 <br />
 
 ## Projects
@@ -21,4 +21,4 @@ My projects usually go through 5 steps:
 - Analyze: find useful insights from data
 - Share: visualize and present
 
-The first 4 steps are performed in Excel and SQL Projects, last step is showed in Tableau Projects
+The first 4 steps are performed in Excel and SQL Projects, which should be accompanied by a documentation in README.md file. Last step is showed in Tableau Projects
