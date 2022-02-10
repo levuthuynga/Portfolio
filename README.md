@@ -10,15 +10,15 @@ I graduated from Hanoi Foreign Trade University, International Business Economic
 ## Projects
 
 This site holds all of my personal projects that are divided into 3 differents repositories:
-1. [Excel Projects](https://github.com/levuthuynga/Excel-Projects)
-2. [SQL Projects](https://github.com/levuthuynga/SQL-Projects)
-3. [Tableau Projects](https://github.com/levuthuynga/Tableau-Projects)
+1. [Excel Project](https://github.com/levuthuynga/Excel-Projects)
+2. [SQL Project](https://github.com/levuthuynga/SQL-Projects)
+3. [Tableau Project](https://github.com/levuthuynga/Tableau-Projects)
 
 My projects usually go through 5 steps:
 - Ask: define goals of the projects
-- Prepare: find needed and reliable data 
+- Prepare: find needed and reliable data
 - Process: clean data
 - Analyze: find useful insights from data
 - Share: visualize and present
 
-The first 4 steps are performed in Excel and SQL Projects, which should be accompanied by a documentation in README.md file. Last step is showed in Tableau Projects
+The first 4 steps are performed in Excel and SQL Projects, which should be accompanied by a documentation in README.md file. Last step is showed in Tableau Project.
